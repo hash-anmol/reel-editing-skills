@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Reel Editor"
+  short_description: "Build and verify minimal Instagram Reels"
+  default_prompt: "Use $instagram-reel-editor to build this approved Reel brief in HyperFrames and verify the final render."

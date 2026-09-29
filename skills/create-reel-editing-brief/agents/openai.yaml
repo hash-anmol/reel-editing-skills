@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Reel Editing Brief"
+  short_description: "Turn script decisions into an edit brief"
+  default_prompt: "Use $create-reel-editing-brief to turn this script and these approved decisions into a production-ready Reel brief."

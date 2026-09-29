@@ -1,0 +1,6 @@
+interface:
+  display_name: "Grill Me Reel Edit"
+  short_description: "Interview key Reel editing decisions"
+  default_prompt: "Use $grill-me-reel-edit to interview me about the highest-impact creative choices for this Reel."
+policy:
+  allow_implicit_invocation: false

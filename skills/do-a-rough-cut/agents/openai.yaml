@@ -1,0 +1,4 @@
+interface:
+  display_name: "Do a rough cut"
+  short_description: "Build a transcript-led rough cut from repeated video takes"
+  default_prompt: "Create a transcript-led rough cut: map script variations, confirm decisions, assemble an ordered edit, and render a verified draft."

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reel Asset Board"
+  short_description: "Collect and review Reel assets"
+  default_prompt: "Use $reel-asset-board to collect, verify, and present the assets needed by this approved Reel brief."
+policy:
+  allow_implicit_invocation: false
